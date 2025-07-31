@@ -10,7 +10,7 @@ Danny wants to use data to better understand his customers and their visiting pa
 
 - `schema.sql` → SQL script to create the tables
 - `data_inserts.sql` → SQL script to populate the data
-- `solutions/` → Folder with one SQL file per question
+- `solutions` → Folder with SQL codes for each question
 - `insights.md` → Optional analysis notes (in Markdown)
 
 
