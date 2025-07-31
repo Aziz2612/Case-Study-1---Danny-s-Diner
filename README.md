@@ -13,9 +13,7 @@ Danny wants to use data to better understand his customers and their visiting pa
 - `solutions/` → Folder with one SQL file per question
 - `insights.md` → Optional analysis notes (in Markdown)
 
-## 🧩 Entity Relationship Diagram
 
-![ERD](./ERD.png)
 
 ## 🛠️ Tools
 
