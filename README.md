@@ -13,10 +13,6 @@ Danny wants to use data to better understand his customers and their visiting pa
 - `solutions/` → Folder with one SQL file per question
 - `insights.md` → Optional analysis notes (in Markdown)
 
-## 🧩 Entity Relationship Diagram
-
-![ERD](./ERD.png)
-
 
 ## 🛠️ Tools
 
@@ -31,6 +27,7 @@ Danny wants to use data to better understand his customers and their visiting pa
 - Window functions
 - Customer behavior analysis
 
-## ✅ Source
 
-[8 Week SQL Challenge – Case Study #1](https://8weeksqlchallenge.com/case-study-1/)
+## 🧩 Entity Relationship Diagram
+
+![ERD](./ERD.png)
